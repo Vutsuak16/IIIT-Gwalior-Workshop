@@ -1,0 +1,4 @@
+set HTTPS_PROXY=http://infotsav026:infotsav16@192.168.1.107:3128
+set HTTP_PROXY=http://infotsav026:infotsav16@192.168.1.107:3128
+
+git config --global http.proxy http://infotsav026:infotsav16@192.168.1.107:3128
