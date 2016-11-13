@@ -1,0 +1,9 @@
+lambda (f=lambda x: x**2)
+
+map
+
+reduce (question factorial using reduce and lambda)
+
+filter
+
+explain sets

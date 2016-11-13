@@ -1,0 +1,2 @@
+WAP to gerenrate 59 as a random number
+Find the iteration in which it generated

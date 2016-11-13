@@ -1,0 +1,11 @@
+https://help.github.com/ (official docs)
+
+
+https://try.github.io
+
+
+https://www.atlassian.com  (for .gitignore)
+
+
+
+http://rogerdudler.github.io/git-guide/  (interesting facts like gitk)

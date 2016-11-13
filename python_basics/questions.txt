@@ -1,0 +1,14 @@
+1.pattern 
+
+*
+**
+**
+***
+****
+
+
+2.WAP using list comprehension adding even to the number
+ if it is even in a random or normal sequential list
+
+
+3.factorial using reduce and lambda
